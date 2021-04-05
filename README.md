@@ -41,7 +41,7 @@ npm start
 
 Si tienes sugerencias, dudas, ideas o te apetece comentar algo, adelante por favor. Puedes hacerlo a través de las _issues_ de este repositorio o contactándome por [email](mailto:saramartinezaragon@gmail.com) o [linkedin](https://www.linkedin.com/in/saramartara/).
 
-------------------- < > ------------ < / > ---------------
+---
 
 # Creating Digital Diversity
 
