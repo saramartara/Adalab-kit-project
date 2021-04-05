@@ -1,19 +1,14 @@
 # Creando diversidad digital
 
-¡Mi primera web!
+Ejercicio realizado durante el bootcamp de [Adalab](https://adalab.es/).
 
-Resultado de la evaluación del primer módulo en el bootcamp de [Adalab, escuela digital](https://adalab.es/).
-Está creada a partir de un diseño proporcionado.
-
-http://beta.adalab.es/modulo-1-evaluacion-intermedia-saramartara/
+Migración de la web [**Creando diversidad digital**](http://beta.adalab.es/modulo-1-evaluacion-intermedia-saramartara/) al motor de plantillas [Adalab Starter Kit](https://github.com/Adalab/adalab-web-starter-kit).
 
 ## Datos técnicos
 
-- HTML para la maquetación.
-- SCSS para aplicar estilos según diseño.
-- Icono de Adalab con enlace a su web.
-- Enlaces internos sin destino: blog y contacto.
-- Motor de plantillas con Gulp para automatización de tareas: [Adalab Starter Kit](https://github.com/Adalab/adalab-web-starter-kit)
+En el proyecto inicial apliqué conocimientos HTML para maquetación y CSS para los estilos.
+
+El motor de plantillas permiten automatizar tareas.
 
 ## Cómo instalarlo
 
@@ -45,21 +40,13 @@ Si tienes sugerencias, dudas, ideas o te apetece comentar algo, adelante por fav
 
 # Creating Digital Diversity
 
-¡Miy first web!
+Exercise carried out during the bootcamp of [Adalab](www.adalab.es).
 
-As a result of a exercise at Adalab bootcamp. It is created from a given desing.
-
-Look at the demo deploy version here:
-
-http://beta.adalab.es/modulo-1-evaluacion-intermedia-saramartara/
-
-## Technical data
-
-- Layout with HTML.
-- SCSS to apply styles according to design.
-- Template engine with Gulp for task automation: [Adalab Starter Kit] (https://github.com/Adalab/adalab-web-starter-kit)
+Migration from the web [**Creating digital diversity**](http://beta.adalab.es/modulo-1-evaluacion-intermedia-saramartara/) to the template with Gulp for automatition [Adalab Starter Kit] (https: // github .com / Adalab / adalab-web-starter-kit)
 
 ## How to
+
+http://beta.adalab.es/modulo-1-evaluacion-intermedia-saramartara
 
 Copy the repository link and clone it:
 
